@@ -1,5 +1,5 @@
 ### print('Hello World 👋')
-My name is Raffaella Suardini. I am a Backend Developer
+My name is Raffaella and I am a Backend Developer
 
 #### About me:
 - 🔭 Currently trying Jest
