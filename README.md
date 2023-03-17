@@ -16,4 +16,4 @@ My name is Raffaella Suardini. I am a Backend Developer
 ![image](https://www.codewars.com/users/raffaellas/badges/small)
 
 #### 💌 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaella-suardini-backend-developer/)  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flate&logo=codewars&logoColor=grey)](https://www.codewars.com/users/raffaellas )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaella-suardini-backend-developer/)
