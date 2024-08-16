@@ -8,9 +8,8 @@ My name is Raffaella and I am a passionate Backend Developer with a focus on Pyt
 
 
 #### What I love:
-- 💼 Creating projects with Python, Django, and Flask to build robust back-end systems.
+- 💼 Creating projects with Python and Django.
 - 🌐 Developing RESTful APIs and integrating third-party services.
-- ⚙️ Using MongoDB to ensuring efficient data storage and retrieval.
 - 🖍 Playing around with React components 
 
 ####  Tech Stack:
