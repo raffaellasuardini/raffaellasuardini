@@ -2,7 +2,7 @@
 I'm Raffaella. I love cats and create web apps using Python 🐍 and Django.
 
 ### Community
-I'm a Django contributor and involved in the Django community. I'm part of the [Djangonaut Space](https://djangonaut.space/) community, help organize Pycon Italia 🇮🇹, and I have volunteered as a coach at [Django Girls+](https://djangogirls.org/en/).
+I'm involved in the Django community, as being member of the [Djangonaut Space](https://djangonaut.space/) community, help organize Pycon Italia 🇮🇹, and I have volunteered as a coach at [Django Girls+](https://djangogirls.org/en/).
 
 
 ###  Tech Stack:
